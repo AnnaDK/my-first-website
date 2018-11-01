@@ -4,7 +4,7 @@ Welcome!
 
 This is my very first website.
 It was created as part of learning process.
-Please, follow the [link](https://github.com/AnnaDK/my-first-website.git) 
+Please, follow the [link](https://annadk.github.io/my-first-website/) 
 to see it.
 
 ## Description
